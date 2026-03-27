@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "XNW4G85DA7.com.nickmek.mypet"
+                ],
+                "components": [
+                    {
+                        "/": "/share/*"
+                    }
+                ]
+            }
+        ]
+    }
+}

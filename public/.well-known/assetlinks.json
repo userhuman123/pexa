@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.nickmek.mypet",
+            "sha256_cert_fingerprints": [
+                "7B:09:4F:09:FA:A5:0E:A8:A4:E0:27:8C:B4:06:B4:06:93:43:78:21:B2:3C:72:5D:2A:96:64:E7:A7:A1:0E:D5"
+            ]
+        }
+    }
+]
