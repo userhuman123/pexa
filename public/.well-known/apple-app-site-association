@@ -1,14 +1,11 @@
 {
     "applinks": {
+        "apps": [],
         "details": [
             {
-                "appIDs": [
-                    "XNW4G85DA7.com.nickmek.mypet"
-                ],
-                "components": [
-                    {
-                        "/": "/share/*"
-                    }
+                "appID": "XNW4G85DA7.com.nickmek.mypet",
+                "paths": [
+                    "/share/*"
                 ]
             }
         ]
