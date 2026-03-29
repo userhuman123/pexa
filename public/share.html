@@ -1,0 +1,9 @@
+<script>
+    const id = window.location.pathname.split("/").pop();
+
+    window.location = `pexa://share/${id}`;
+
+    setTimeout(() => {
+        window.location = "/download";
+    }, 1500);
+</script>
