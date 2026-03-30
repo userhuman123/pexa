@@ -16,7 +16,7 @@
             "destination": "/share.html"
         },
         {
-            "source": "/test/:id",
+            "source": "/asas/:id",
             "destination": "/share.html"
         },
         {
