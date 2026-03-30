@@ -16,6 +16,10 @@
             "destination": "/share.html"
         },
         {
+            "source": "/test/:id",
+            "destination": "/share.html"
+        },
+        {
             "source": "/download",
             "destination": "/download.html"
         }
