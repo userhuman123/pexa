@@ -16,10 +16,6 @@
             "destination": "/share.html"
         },
         {
-            "source": "/asas/:id",
-            "destination": "/share.html"
-        },
-        {
             "source": "/download",
             "destination": "/download.html"
         }
